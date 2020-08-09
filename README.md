@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá galera! Começando nesse mundo louco da programação. 
+Simbora codar!
 <!--
 **Tereza25/Tereza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
