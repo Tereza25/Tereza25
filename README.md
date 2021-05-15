@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there! Welcome to my profile 
 
-Olá galera! Começando nesse mundo louco da programação. 
-Simbora codar!
+My name is Tereza Oliveira and ...
+
+- 😄 I really like to learn and to teach
+
+- 🔭 I’m currently working on Training and development
+
+- 💬 I am currently studying Backend Development
+
+- ❤️ I love coffee, music and travel
 <!--
 **Tereza25/Tereza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
