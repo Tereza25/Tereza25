@@ -1,24 +1,22 @@
-### My name is Tereza Oliveira and ...
+<h2> Fala galera! Meu nome é <strong>Tereza Oliveira</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-- 😄 I really like to learn and to teach
+<h3> :man_office_worker: 💻 Quem sou eu: Sou desenvolvedora de software e atuo como professora da stack back-end. Minha formação deu início como administradora de empresas e educadora social, em 2020 iniciei a transição de carreira para a área tecnológica.</h3>
 
-- 🔭 I’m currently working on Training and development
+- :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
+- 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
+- :computer: &nbsp; <strong>Estudando constantemente melhores práticas de programação e novas tecnologias</strong>
 
-- 💬 I am currently studying Backend Development
+<h3>:atom: Competências Técnicas: </h3>
 
-- ❤️ I love coffee, music and travel
+- 💻 &nbsp; <strong>Javascript e Node.js</strong>
+- 🌐 &nbsp; <strong>Stack Back-End (Desenvolvimento Web)</strong>
+- 🛢 &nbsp; <strong>MongoDb</strong>
+- 🔧 &nbsp; <strong>Git</strong>
 
-<!--
-**Tereza25/Tereza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tereza-oliveira/" /></a>
+  
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tereza_adm/"/></a>
+<div>
