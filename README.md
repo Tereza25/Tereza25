@@ -6,6 +6,7 @@
   
   
 - :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
+- 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
 - :computer: &nbsp; <strong>Estudando constantemente melhores práticas de programação e novas tecnologias</strong>
 
