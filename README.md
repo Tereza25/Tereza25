@@ -1,10 +1,10 @@
 <h2> Fala galera! Meu nome é <strong>Tereza Oliveira</strong>. 
 
-<h3> 💻 Quem sou eu:</h3> Sou desenvolvedora de software e atuo como professora da stack back-end. Minha formação deu início como administradora de empresas e educadora social, em 2020 iniciei a transição de carreira para a área tecnológica.
+Sou desenvolvedora de software e atuo como professora da stack back-end. Minha formação deu início como administradora de empresas e educadora social, em 2020 iniciei a transição de carreira para a área tecnológica.
+      
   
-  
-  
-  
+<h3> 💻 Quem sou eu:</h3> 
+- ☕ 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
 - :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
