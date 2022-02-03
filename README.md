@@ -20,3 +20,9 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tereza_adm/"/></a>
 <div>
+
+  </br>
+<div align="center">
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Tereza25"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+</a>
+</div>
